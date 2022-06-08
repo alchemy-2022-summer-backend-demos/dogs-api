@@ -1,8 +1,8 @@
 const dogs = [
-  { id: '1', name: 'Benny' },
-  { id: '2', name: 'Finley' },
-  { id: '3', name: 'Ruby' },
-  { id: '4', name: 'Jeep' },
+  { id: '1', name: 'Benny', age: 7 },
+  { id: '2', name: 'Ruby', age: 12 },
+  { id: '3', name: 'Finley', age: 4 },
+  { id: '4', name: 'Jeep', age: 4 },
 ];
 
 module.exports = { dogs };
