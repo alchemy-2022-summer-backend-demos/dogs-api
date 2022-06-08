@@ -19,6 +19,7 @@ describe('dogs-api routes', () => {
     expect(res.body).toEqual({
       id: '1',
       name: 'Benny',
+      age: 7,
     });
   });
 
